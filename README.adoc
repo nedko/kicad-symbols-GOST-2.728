@@ -1,0 +1,34 @@
+:title: Стандарт ГОСТ 2.728 - KiCAD (KiCAD symbols for GOST 2.728)
+:keywords: ГОСТ, GOST, БДС, KiCAD
+
+= KiCAD symbols according to GOST 2.728 (Resistrors, capacitors) or similar.
+
+.WORK IN PROGRESS
+[NOTE]
+This repository contains Work In Progress for KiCAD symbol library matching ГОСТ-2.728 (Resistrors, capacitors)
+
+== ГОСТ/GOST
+
+Стандарт ГОСТ 2.728 (Резисторы, конденсаторы) / Стандарт ГОСТ 2.728 (Резистори, кондензатори) / GOST standard 2.728 (Resistrors, capacitors)
+
+Единая система конструкторской документации.
+Обозначения условные графические в схемах.
+Резисторы, конденсаторы
+
+Unified system for design documentation.
+Graphical symbols for diagrams.
+Resistrors, capacitors
+
+ * https://www.internet-law.ru/gosts/gost/41280/[ГОСТ 2.728-74, юридическая фирма "Интернет и Право", https://www.internet-law.ru/]
+
+== БДС/BDS
+
+Вероятно еквивалентени БДС документи / Probably equivalent Bulgarian state-level standards from 1980:
+
+ * https://bds-bg.org/bg/project/show/bds:proj:22121[БДС 2.721:1980, resistors, paid access, Български институт за стандартизация]
+ * https://bds-bg.org/bg/project/show/bds:proj:22124[БДС 2.724:1980, capacitors, paid access, Български институт за стандартизация]
+
+== Стандарты ГОСТ / ГОСТ стандарти (на руски) / GOST standards (in Russian):
+
+ * https://www.internet-law.ru/gosts/[Каталог ГОСТ, юридическая фирма "Интернет и Право",  https://www.internet-law.ru/]
+ * https://www.internet-law.ru/gosts/?f1=%C5%E4%E8%ED%E0%FF+%F1%E8%F1%F2%E5%EC%E0+%EA%EE%ED%F1%F2%F0%F3%EA%F2%EE%F0%F1%EA%EE%E9+%E4%EE%EA%F3%EC%E5%ED%F2%E0%F6%E8%E8%2E+%CE%E1%EE%E7%ED%E0%F7%E5%ED%E8%FF+%F3%F1%EB%EE%E2%ED%FB%E5+%E3%F0%E0%F4%E8%F7%E5%F1%EA%E8%E5+%E2+%F1%F5%E5%EC%E0%F5&f2=2&f3=0&f4=0&where=0[Единая система конструкторской документации. Обозначения условные графические в схемах., юридическая фирма "Интернет и Право",  https://www.internet-law.ru/]
